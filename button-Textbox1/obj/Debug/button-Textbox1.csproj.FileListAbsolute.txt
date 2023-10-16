@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Textbox1\button-Textbox1\bin\Debug\button-Textbox1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Textbox1\button-Textbox1\bin\Debug\button-Textbox1.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Textbox1\button-Textbox1\bin\Debug\button-Textbox1.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Textbox1\button-Textbox1\obj\Debug\button-Textbox1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Textbox1\button-Textbox1\obj\Debug\button-Textbox1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Textbox1\button-Textbox1\obj\Debug\button_Textbox1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Textbox1\button-Textbox1\obj\Debug\button_Textbox1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Textbox1\button-Textbox1\obj\Debug\button-Textbox1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Textbox1\button-Textbox1\obj\Debug\button-Textbox1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Textbox1\button-Textbox1\obj\Debug\button-Textbox1.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\button-Textbox1\button-Textbox1\obj\Debug\button-Textbox1.pdb
